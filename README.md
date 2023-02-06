@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-👩🏽‍💻 A cybersecurity pro focusing on security operations, threat intelligence, threat hunting and researching who also loves to code! My goal is to create things to help secure society.
+👩🏽‍💻 I'm a cybersecurity pro and mentor with a decade of experience in cybersecurity operations, cyber threat intelligence, and threat hunting who also loves to code! My goal is to not only help others understand the cyber threat landscape, but also to help build tools that can be used to help create a more secure society. 
 
 
 - 🏆 **Cyber Certifications:**
@@ -22,8 +22,10 @@
   * SSCP (ISC2 System Security Certified Practitioner)
 
  - 💻 Languages/Framewors: **Python | Ruby| Javascript | HTML | CSS**
-   * [**currently learning**] Ruby on Rails💡
+   * [**CURRENTLY LEARNING**] Ruby on Rails💡
 
- - 🌱 What else I'm currently learning / studying:
+ - 🌱 **What else I'm currently learning / studying**:
    * Blue Team Level 1 Cert (Review comming soon 😀)
    * French 🇫🇷
+
+Want to collaborate on a project or network? Feel free to reach out!! 📧 VersionLAA@gmail.com
