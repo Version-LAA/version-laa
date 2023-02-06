@@ -22,8 +22,8 @@
   * SSCP (ISC2 System Security Certified Practitioner)
 
  - 💻 Languages/Framewors: **Python | Ruby| Javascript | HTML | CSS**
-  * Ruby on Rails
+   * Ruby on Rails
 
  - 🌱 What else I'm currently learning / studying:
-  * Blue Team Level 1 Cert (Review comming soon 😀)
-  * French 🇫🇷
+   * Blue Team Level 1 Cert (Review comming soon 😀)
+   * French 🇫🇷
