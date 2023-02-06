@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-## A cybersecurity pro focusing on security operations, threat intelligence, threat hunting and researching who also loves to code! My goal is to create things to help secure society. 👩🏽‍💻
+A cybersecurity pro focusing on security operations, threat intelligence, threat hunting and researching who also loves to code! My goal is to create things to help secure society. 👩🏽‍💻
 
 
 - 🏆 **Cyber Certifications:**
