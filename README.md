@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/passwrd.png" alt="GitHub Logo" width="250" height="150" />
+<img src="/giphy.png" alt="GitHub Logo" width="200" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-A cybersecurity pro focusing on security operations, threat intelligence, threat hunting and researching who also loves to code! My goal is to create things to help secure society. 👩🏽‍💻
+👩🏽‍💻 A cybersecurity pro focusing on security operations, threat intelligence, threat hunting and researching who also loves to code! My goal is to create things to help secure society.
 
 
 - 🏆 **Cyber Certifications:**
@@ -21,4 +21,9 @@ A cybersecurity pro focusing on security operations, threat intelligence, threat
   * GREM (GIAC Certified Intrusion Analyst)
   * SSCP (ISC2 System Security Certified Practitioner)
 
-- 💻 Languages: **Python | Ruby| Javascript | HTML | CSS**
+ - 💻 Languages/Framewors: **Python | Ruby| Javascript | HTML | CSS**
+  * **Ruby on Rails**
+
+ - 🌱 What else I'm currently learning / studying:
+  * **Blue Team Level 1 Cert (Review comming soon 😀)**
+  * **French 🇫🇷**
