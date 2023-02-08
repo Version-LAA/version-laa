@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-👩🏽‍💻 I'm a cybersecurity pro and mentor with a decade of experience in cybersecurity operations, cyber threat intelligence, and threat hunting who also loves to code! My goal is to not only help others understand the cyber threat landscape, but also to help build tools that can be used to help create a more secure society. 
+👩🏽‍💻 I'm a cybersecurity pro and mentor with a decade of experience in cybersecurity operations, cyber threat intelligence, and threat hunting who also loves to code! My goal is to not only help spread situational awareness of emerging cyber threats and to teach others, but also to help build tools that can be used to help create a more secure society. 
 
 
 - 🏆 **Cyber Certifications:**
