@@ -21,12 +21,9 @@
   * GREM (GIAC Certified Intrusion Analyst)
   * SSCP (ISC2 System Security Certified Practitioner)
 
- - 💻 Languages/Framewors: **Python | Ruby| Javascript | HTML | CSS**
-   * [**CURRENTLY LEARNING**] Ruby on Rails💡
+ - 💻 Languages/Framewors: **Python | Ruby| Javascript | HTML | CSS | Ruby on Rails**
+   * [**CURRENTLY LEARNING**]: 💡
 
- - 🌱 **What else I'm currently learning / studying**:
-   * Blue Team Level 1 Cert (Review comming soon 😀)
-   * French 🇫🇷
 
 Want to collaborate on a project or network? Feel free to reach out!! 📧 VersionLAA@gmail.com
 
