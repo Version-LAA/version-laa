@@ -2,7 +2,7 @@
 <img src="/giphy.png" alt="GitHub Logo" width="200" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
+# Welcome To My GitHub Profile!
 
 <br/>
 <div align="center">
@@ -21,8 +21,8 @@
   * GREM (GIAC Certified Intrusion Analyst)
   * SSCP (ISC2 System Security Certified Practitioner)
 
- - 💻 Languages/Framewors: **Python | Ruby| Javascript | HTML | CSS | Ruby on Rails**
-   * [**CURRENTLY LEARNING**]: 💡
+ - 💻 Languages/Frameworks: **Python | Ruby| Javascript | HTML | CSS | Ruby on Rails**
+  
 
 
 Want to collaborate on a project or network? Feel free to reach out!! 📧 VersionLAA@gmail.com
