@@ -21,7 +21,7 @@
   * GREM (GIAC Certified Intrusion Analyst)
   * SSCP (ISC2 System Security Certified Practitioner)
 
- - 💻 Languages/Frameworks: **Python | Ruby| Javascript | HTML | CSS | Ruby on Rails**
+ - 💻 Languages/Frameworks: **Python | Ruby| Javascript | HTML | CSS | Django | Ruby on Rails**
   
 
 
